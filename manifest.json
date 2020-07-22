@@ -12,7 +12,12 @@
   },
   "dependencies": {
     "vtex.styleguide": "9.x",
-    "vtex.css-handles": "0.x"
+    "vtex.css-handles": "0.x",
+    "vtex.countdown": "0.0.1",
+    "vtex.search-graphql": "0.x",
+    "vtex.product-context": "0.x",
+    "vtex.store-components": "3.x",
+    "vtex.rich-text": "0.x"
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }

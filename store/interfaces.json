@@ -1,5 +1,12 @@
 {
   "countdown": {
     "component": "Countdown"
+  },
+  "countdown.title": {
+    "component": "Title"
+  },
+  "topcard": {
+    "component": "TopCard"
   }
+  
 }
